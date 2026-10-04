@@ -4,3 +4,8 @@ body {
 	 */
   font: 100%/1.5 system-ui;
 }
+
+.profile-pic {
+  width: 300px;
+  height: auto;
+}
